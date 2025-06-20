@@ -3,7 +3,7 @@ Jupyter Notebook covering Python data types (int, float, str, list, dict, etc.) 
 
 # Python Data Types Tutorial
 This Jupyter Notebook (`1.data_types.ipynb`) demonstrates Python's core data types:
-- Numerical: `int`, float`
+- Numerical: `int`, 'float`
 - Text: `str`
 - Boolean: `bool`
 - Sequential: `list`, `tuple`, `range`
